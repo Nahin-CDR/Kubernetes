@@ -38,7 +38,7 @@ kubectl describe pod webapp
 # Delete a pod :
 
 ```
-kubectl delete podname
+kubectl delete pod podname
 ```
 
 # Create a new pod with the name `redis` and the image `redis123`.
