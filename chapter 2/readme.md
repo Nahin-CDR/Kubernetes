@@ -16,3 +16,8 @@ kubectl get replicaset
 Run the command:  "kubectl describe pods" 
 and look at under the Events section.
 ``
+# How to delete a pod ?
+
+```
+kubectl delete pod podname
+```
